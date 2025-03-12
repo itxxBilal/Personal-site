@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://itx-bilal.site/$1",
+      "permanent": true
+    }
+  ]
+}
